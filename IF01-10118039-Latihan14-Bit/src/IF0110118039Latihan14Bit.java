@@ -2,7 +2,7 @@
  * NAMA              : FATAHILLAH SATRIA BIMA SENO
  * KELAS             : IF-01
  * NIM               : 10118039
- * DESKRIPSI PROGRAM :   
+ * DESKRIPSI PROGRAM :Program ini berisi program yang menampilkan perhitungan bit   
  */
 
 public class IF0110118039Latihan14Bit {
